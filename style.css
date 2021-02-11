@@ -1,0 +1,17 @@
+.card{
+    border: none;    
+}
+
+.colorful{
+    background-color: rgba(199, 182, 25, 0.795);
+    }
+
+#navbarDropdown{
+    justify-content: flex-end;
+}
+
+.farm{
+    height: 90vh;
+    background: url(../images/farm.png) center;
+    background-size: cover;
+}
